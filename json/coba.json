@@ -1,0 +1,23 @@
+[
+    { 
+        "nama" : "Zahara",
+        "umur" : 21,
+        "nrp" : "221702005",
+        "lulus" : false,
+        "hobby" : [
+            "baca",
+            "olahraga"
+        ]
+
+    },
+    {
+        "nama" : "Khairani",
+        "umur" : 21,
+        "nrp" : "221702007",
+        "lulus" : false,
+        "hobby" : [
+            "nyanyi",
+            "renang"
+        ]
+    } 
+]
